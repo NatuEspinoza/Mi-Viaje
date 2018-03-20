@@ -1,4 +1,4 @@
-![mi-viaje](https://i.imgur.com/INvLI67.jpg)
+![mi-viaje](https://i.imgur.com/dJWXu1p.jpg)
 
 **Mi Viaje**, nace como consecuencia de una investigación trabajada en equipo por medio de metodología ágil, por lo cual la planificación fue fundamental.
 Fue fundamental situarnos en el contexto y es por esto que se tomó la experiencia completa, desde el antes de viajar, durante y al llegar a destino.
