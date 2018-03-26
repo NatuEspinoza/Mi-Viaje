@@ -52,7 +52,7 @@ Es mapa de afinidad nos permitió confirmar nuestra hipótesis de que la problem
 ![](https://i.imgur.com/A93Mdx7.jpg)
 ![](https://i.imgur.com/jzaS346.jpg)
 
-##User personas
+## User personas
 En base al mapa de afinidad dimos con cuatro tipos de usuarios y centramos nuestra solución en **"el planificador"** ya que englobaba la problemática más relevantes.
 
 ![](https://i.imgur.com/fCnOyWJ.jpg)
@@ -71,11 +71,39 @@ Finalmente la problemática es clara el usuario necesita **planificar y tener el
 ## User flow
 ![](https://i.imgur.com/MH6lbMF.jpg)
 
-El realizar un User flow y un contet prototype nos ayudo a lograr organizar el contenido y guiar la elaboración de los primeros sketch de wireframes.
+El realizar un User flow y un contet prototype nos ayudó a lograr organizar el contenido y guiar la elaboración de los primeros sketch de wireframes.
 
 ## Sketch y primeros wireframes
 ![](https://i.imgur.com/anyCcoI.jpg)
 ![](https://i.imgur.com/l7VDhY2.jpg)
 
 # Validación
-Una vez generados los primeros wireframes decidimos testear un prototipo. A partir de este testeo obtuvimos como resultado
+## Test de prototipo 1
+Una vez generados los primeros wireframes decidimos testear un prototipo. A partir de este testeo obtuvimos como resultado que había problemas en los flujos que seguían los usuarios y la necesidad de tener siempre el control, pudiendo siempre retroceder, por ejemplo.
+En base a todo el feedback de los usuarios diseñamos los wireframes digitales y generamos un nuevo prototipo.
+
+![](https://i.imgur.com/7xerB8c.jpg)
+
+# Ideación
+## Diseño de wireframes digitales y MVP
+Realizamos el diseño de los wireframes en Mockflow y se prototipó en Marvel.
+
+![](https://i.imgur.com/Ja1dfnQ.jpg)
+[Link de prototipo](https://marvelapp.com/bdh1h0e/screen/37787808)
+
+# Validación
+## Test de prototipo 2
+Se vuelve a testear el prototipo con las modificaciones pertinentes. El resultado de este test con usuarios nos hizo dar cuenta de la necesidad del usuario de estar siempre visualizando donde va en su viaje, aunque esté en otras secciones de la app.
+Por otra parte, había cierta confusión con el paso a paso visual, que les mostraba en qué etapa o paso iban.
+Y finalmente era sumamente importante para los usuarios recibir avisos cuando se estén acercando a su destino.
+
+# Ideación
+## Aplicando las correcciones al diseño de wireframes
+
+![](https://i.imgur.com/W7TL04P.jpg)
+[Link de prototipo final (MVP)](https://marvelapp.com/bdh1h0e/screen/37787808)
+
+# Propuesta de valor
+![](https://i.imgur.com/w4GqyUu.jpg)
+
+##### Proyecto desarrollado para Laboratoria Chile
