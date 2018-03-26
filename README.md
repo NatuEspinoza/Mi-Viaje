@@ -101,7 +101,7 @@ Y finalmente era sumamente importante para los usuarios recibir avisos cuando se
 ## Aplicando las correcciones al diseño de wireframes
 
 ![](https://i.imgur.com/W7TL04P.jpg)
-[Link de prototipo final (MVP)](https://marvelapp.com/bdh1h0e/screen/37787808)
+[Link de prototipo final (MVP)](https://www.figma.com/proto/Hf23N8du3Ah4vUKeYHvto9CV/Miviaje?scaling=contain&redirected=1&node-id=57%3A6)
 
 # Propuesta de valor
 ![](https://i.imgur.com/w4GqyUu.jpg)
