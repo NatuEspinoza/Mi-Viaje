@@ -106,4 +106,12 @@ Y finalmente era sumamente importante para los usuarios recibir avisos cuando se
 # Propuesta de valor
 ![](https://i.imgur.com/w4GqyUu.jpg)
 
+#### Equipo de trabajo
+* **Javiera Mardones** / UX research/encuesta/diseño e ilustración
+* **Consuelo Acevedo** / UX research/encuesta/prototipado
+* **Sofía Arevalo** / UX research /encuesta
+* **Enid Veneros** / UX research/entrevistas/prototipado
+* **Carolina Jarpa** / UX research/entrevistas
+* **Natalia Espinoza** / UX research/entrevistas/diseño visual y prototipado
+
 ##### Proyecto desarrollado para Laboratoria Chile
