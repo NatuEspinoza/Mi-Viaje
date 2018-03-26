@@ -114,4 +114,5 @@ Y finalmente era sumamente importante para los usuarios recibir avisos cuando se
 * **Carolina Jarpa** / UX research/entrevistas
 * **Natalia Espinoza** / UX research/entrevistas/diseño visual y prototipado
 
-##### Proyecto desarrollado para Laboratoria Chile
+#### Proyecto desarrollado para
+[Laboratoria Chile](http://www.laboratoria.la)
