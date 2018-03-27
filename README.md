@@ -91,7 +91,6 @@ En base a todo el feedback de los usuarios diseñamos los wireframes digitales y
 Realizamos el diseño de los wireframes en Mockflow y se prototipó en Marvel.
 
 ![](https://i.imgur.com/Ja1dfnQ.jpg)
-[Link de prototipo](https://marvelapp.com/bdh1h0e/screen/37787808)
 
 ## Validación
 ### Test de prototipo 2
@@ -103,7 +102,6 @@ Y finalmente era sumamente importante para los usuarios recibir avisos cuando se
 ### Aplicando las correcciones al diseño de wireframes
 
 ![](https://i.imgur.com/W7TL04P.jpg)
-[Link de prototipo final (MVP)](https://www.figma.com/proto/Hf23N8du3Ah4vUKeYHvto9CV/Miviaje?scaling=contain&redirected=1&node-id=57%3A6)
 
 ## Propuesta de valor
 ![](https://i.imgur.com/w4GqyUu.jpg)
@@ -118,3 +116,5 @@ Y finalmente era sumamente importante para los usuarios recibir avisos cuando se
 
 #### Proyecto desarrollado para
 [Laboratoria Chile](http://www.laboratoria.la)
+
+**[Link de prototipo final (MVP)](https://www.figma.com/proto/Hf23N8du3Ah4vUKeYHvto9CV/Miviaje?scaling=contain&redirected=1&node-id=57%3A6)**
